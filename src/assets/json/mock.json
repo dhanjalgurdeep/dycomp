@@ -1,0 +1,10 @@
+[
+    {
+        "templateName" : "./template1.html",
+        "service" : "service-one.json"
+    },
+    {
+        "templateName" : "./template1.html",
+        "service" : "service-two.json"
+    }
+]
